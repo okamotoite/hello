@@ -1,0 +1,5 @@
+#define PIYO1 "   ___   "
+#define PIYO2 " / @   \\ " 
+#define PIYO3 "<       \\"
+#define PIYO4 " \\______/"
+#define PIYO5 "  /    \\ "
